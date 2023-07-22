@@ -1,0 +1,9 @@
+[submodule "sciweave-contracts"]
+	path = sciweave-contracts
+	url = https://github.com/SciWeave/sciweave-contracts
+[submodule "sciweave-thegraph"]
+	path = sciweave-thegraph
+	url = https://github.com/SciWeave/sciweave-thegraph
+[submodule "sciweave-ui"]
+	path = sciweave-ui
+	url = https://github.com/SciWeave/sciweave-ui
