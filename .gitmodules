@@ -7,3 +7,6 @@
 [submodule "sciweave-ui"]
 	path = sciweave-ui
 	url = https://github.com/SciWeave/sciweave-ui
+[submodule "polygon-graph"]
+	path = polygon-graph
+	url = https://github.com/SciWeave/polygon-graph
